@@ -93,3 +93,10 @@ register_setting(
     editable=True,
     default=True,
 )
+
+register_setting(
+    name="EVENT_RIGHT_PANEL",
+    description="Configure the right panel",
+    editable=True,
+    default='agenda/includes/filter_panel.html',
+)
