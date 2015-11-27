@@ -1,3 +1,7 @@
+# CUSTOM IMPLEMENTATION
+
+This is a custom implementation for www.bcars.org.  See upstream for a more general purpose version.
+
 # mezzanine-agenda
 
 This plugin gives you Event functionality for your Mezzanine sites. Very similiar to mezzanine-events but rather than implementing Events as a custom Page object and managing through the Pages admin it is it's own content type that is managed on its own, similiar to Blog Posts. This allows for standard viewing and filtering of these events based on the date.
